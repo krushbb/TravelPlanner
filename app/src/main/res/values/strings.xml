@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Travel Planner</string>
+    <string name="enter_end_date">Enter End Date</string>
+</resources>
